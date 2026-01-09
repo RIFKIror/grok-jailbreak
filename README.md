@@ -1,10 +1,10 @@
 # Grok Jailbreak — V3 | NodeJS
 
-### 👨‍💻 Developer  
-**KyynXznotDev**
+### ⚡ Developer  
+**> KyynXznotDev**
 
 ### 📦 Type  
-**Module**
+**> Module**
 
 ### 🔗 API Endpoint
 
